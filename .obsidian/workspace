@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db3d21db5fa674e4",
+        "id": "e6ad84800686a06d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "bin/templates/Archive.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#interiors",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,13 +84,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bin/templates/Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -116,24 +110,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 302
   },
-  "active": "db3d21db5fa674e4",
+  "active": "e6ad84800686a06d",
   "lastOpenFiles": [
-    "bin/templates/resources.md",
-    "bin/templates/areas.md",
-    "bin/templates/project.md",
-    "projects/Create a BIM of a Villa.md",
-    "bin/Template/Daily Task.md",
-    "bin/Template/Books.md",
-    "journal/2022-10-07.md",
-    "bin/templates/daily journal.md",
-    "Plethora.md",
-    "Obsidian.md"
+    "resources/French Interiors The Art of Elegance.md",
+    "archive/Biophilia.md",
+    "archive/Design Thinking.md",
+    "archive/hygge.md",
+    "archive/Interior Design Studio.md",
+    "archive/Japandi.md",
+    "archive/Nordic Countries.md",
+    "archive/Plethora.md",
+    "archive/Space.md",
+    "archive/Wabi-sabi.md"
   ]
 }

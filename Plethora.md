@@ -1,1 +1,0 @@
-A very large amount of something, usually more than is needed or can be used.
