@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": true,
+  "replacementText": "link",
+  "template": "Template/Books"
+}
