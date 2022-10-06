@@ -1,96 +1,78 @@
 {
   "main": {
-    "id": "e1cd8df414cb02ed",
+    "id": "b1ce6c1a6a5a9ac4",
     "type": "split",
     "children": [
       {
-        "id": "0205221b64904897",
+        "id": "9c184bdbe3a17ae8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Index/Index.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ff654d3da0dd5d1b",
+    "id": "67a3bee9acad43a7",
     "type": "split",
     "children": [
       {
-        "id": "8963d749aff7ce8f",
+        "id": "cd3a6c12cf4b1e05",
         "type": "tabs",
         "children": [
           {
-            "id": "47aa8db2cc528244",
+            "id": "92b53878549f0b16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "91e55c2dedbf4c60",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#interiors",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "b00f30328b58b78a",
+            "id": "a9305f3653e874db",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "63d824adcc4e91fe",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 300
   },
   "right": {
-    "id": "1275bf6a47e677a4",
+    "id": "5001ededd014ede9",
     "type": "split",
     "children": [
       {
-        "id": "2f70bf171b6d6b49",
+        "id": "535f5ef7ca555d24",
         "type": "tabs",
         "children": [
           {
-            "id": "fd110820b8e91b48",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5e938af24ff6ede7",
+            "id": "269542b04d855075",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,39 +84,42 @@
             }
           },
           {
-            "id": "91749fe13beaf62e",
+            "id": "ebce474d80e3b70a",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "4b9c72201c7cd0f1",
+            "id": "39a2c2687f200b15",
             "type": "leaf",
             "state": {
-              "type": "example-view",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c406e94096aa711",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 302
+    "width": 300,
+    "collapsed": true
   },
-  "active": "63d824adcc4e91fe",
-  "lastOpenFiles": [
-    "Index/Index.md",
-    "resources/untitled.md",
-    "areas/BIM.md",
-    "projects/Grasshopper.md",
-    "journal/2022-10-07.md",
-    "18a.91cl.md",
-    "archive/Japandi.md",
-    "archive/Biophilia.md",
-    "archive/Adobe Photoshop.md",
-    "resources/French Interiors The Art of Elegance.md"
-  ]
+  "active": "92b53878549f0b16",
+  "lastOpenFiles": []
 }
