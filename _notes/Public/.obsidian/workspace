@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "e1cd8df414cb02ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "0205221b64904897",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff654d3da0dd5d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8963d749aff7ce8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47aa8db2cc528244",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#interiors",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b00f30328b58b78a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "63d824adcc4e91fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233
+  },
+  "right": {
+    "id": "1275bf6a47e677a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f70bf171b6d6b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd110820b8e91b48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e938af24ff6ede7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91749fe13beaf62e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b9c72201c7cd0f1",
+            "type": "leaf",
+            "state": {
+              "type": "example-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302
+  },
+  "active": "0205221b64904897",
+  "lastOpenFiles": [
+    "Index/Index.md",
+    "areas/Interior Design.md",
+    "resources/Extraordinary Interiors-Show-stopping looks for unique interiors.md",
+    "resources/untitled.md",
+    "areas/BIM.md",
+    "projects/Grasshopper.md",
+    "journal/2022-10-07.md",
+    "18a.91cl.md",
+    "archive/Japandi.md",
+    "archive/Biophilia.md"
+  ]
+}
