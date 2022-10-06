@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "e1cd8df414cb02ed",
+    "id": "a09ebdd43d243b59",
     "type": "split",
     "children": [
       {
-        "id": "0205221b64904897",
+        "id": "36efb0500d84c1fd",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -15,72 +15,60 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ff654d3da0dd5d1b",
+    "id": "9174014ef3227000",
     "type": "split",
     "children": [
       {
-        "id": "8963d749aff7ce8f",
+        "id": "e003b374e323294d",
         "type": "tabs",
         "children": [
           {
-            "id": "47aa8db2cc528244",
+            "id": "27daa9f57b3215c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57e231caa3a51016",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#interiors",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "b00f30328b58b78a",
+            "id": "c36dd2ad5dab48dc",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "63d824adcc4e91fe",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 300
   },
   "right": {
-    "id": "1275bf6a47e677a4",
+    "id": "114dc7cf883fa376",
     "type": "split",
     "children": [
       {
-        "id": "2f70bf171b6d6b49",
+        "id": "05d2841d9c269a0b",
         "type": "tabs",
         "children": [
           {
-            "id": "fd110820b8e91b48",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5e938af24ff6ede7",
+            "id": "f8f4d60f404015cb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -96,39 +84,44 @@
             }
           },
           {
-            "id": "91749fe13beaf62e",
+            "id": "4cde94aa3b690bfa",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "4b9c72201c7cd0f1",
+            "id": "7a8fb6a985fa24b4",
             "type": "leaf",
             "state": {
-              "type": "example-view",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f92408a9f04c74a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 302
+    "width": 300,
+    "collapsed": true
   },
-  "active": "0205221b64904897",
+  "active": "36efb0500d84c1fd",
   "lastOpenFiles": [
-    "Index/Index.md",
-    "areas/Interior Design.md",
-    "resources/Extraordinary Interiors-Show-stopping looks for unique interiors.md",
-    "resources/untitled.md",
-    "areas/BIM.md",
-    "projects/Grasshopper.md",
-    "journal/2022-10-07.md",
-    "18a.91cl.md",
-    "archive/Japandi.md",
-    "archive/Biophilia.md"
+    "index.md"
   ]
 }
