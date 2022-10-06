@@ -1,8 +1,6 @@
-.DS_Store
-public
-resources
-.idea
-content/.obsidian
-assets/indices/linkIndex.json
-assets/indices/contentIndex.json
-linkmap
+_site
+.jekyll-cache
+pages/.DS_Store
+pages/tags.md
+_notes/.obsidian
+_notes/Public/.obsidian
