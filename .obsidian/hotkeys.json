@@ -14,5 +14,23 @@
       ],
       "key": "Cancel"
     }
+  ],
+  "para-shortcuts:init-vault": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "para-shortcuts:create-new-entry": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

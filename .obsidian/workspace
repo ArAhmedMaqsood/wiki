@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ad84800686a06d",
+        "id": "0205221b64904897",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Index/Index.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -23,21 +28,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "037e8a3a394ab828",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "47aa8db2cc528244",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "tag:#interiors",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -52,12 +49,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "63d824adcc4e91fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 233
   },
   "right": {
     "id": "1275bf6a47e677a4",
@@ -84,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,23 +117,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 302
   },
-  "active": "e6ad84800686a06d",
+  "active": "63d824adcc4e91fe",
   "lastOpenFiles": [
-    "resources/French Interiors The Art of Elegance.md",
-    "archive/Biophilia.md",
-    "archive/Design Thinking.md",
-    "archive/hygge.md",
-    "archive/Interior Design Studio.md",
+    "Index/Index.md",
+    "resources/untitled.md",
+    "areas/BIM.md",
+    "projects/Grasshopper.md",
+    "journal/2022-10-07.md",
+    "18a.91cl.md",
     "archive/Japandi.md",
-    "archive/Nordic Countries.md",
-    "archive/Plethora.md",
-    "archive/Space.md",
-    "archive/Wabi-sabi.md"
+    "archive/Biophilia.md",
+    "archive/Adobe Photoshop.md",
+    "resources/French Interiors The Art of Elegance.md"
   ]
 }

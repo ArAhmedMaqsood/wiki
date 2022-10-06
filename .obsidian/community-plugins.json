@@ -1,12 +1,14 @@
 [
-  "para-shortcuts",
   "obsidian-habitica-integration",
   "obsidian-minimal-settings",
   "calendar",
   "obsidian-icon-folder",
   "obsidian-tagfolder",
   "quickadd",
-  "obsidian-mkdocs-publisher",
   "obsidian-plugin-toc",
-  "obsidian-dynamic-toc"
+  "obsidian-git",
+  "obsidian-cloudinary-uploader",
+  "homepage",
+  "folder-note-plugin",
+  "dbfolder"
 ]

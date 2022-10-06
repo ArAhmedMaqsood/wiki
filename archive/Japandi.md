@@ -45,6 +45,8 @@ _Japandi_ Design is the combination of [[Scandinavian]] functionality & [[Japane
 - To get the best of both the designs, draw on the coziness of Scandi Design with warm textures & soft pieces while maintaining the elegance of Japanese decor.  
 - Look for pieces that will stand the test of time and work with your decor for years to come. Focus on pieces that are sustainable and safe for our planet.
 
+![](https://res.cloudinary.com/djnpfqkxk/image/upload/v1665090687/wiki/pqasj1jihpajkpzbsvjb.png)
+
 ###  Reference
 
 - https://foyr.com/learn/japandi-interior-design-style/
