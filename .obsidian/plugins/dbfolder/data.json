@@ -12,7 +12,7 @@
     }
   },
   "local_settings": {
-    "remove_field_when_delete_column": true,
+    "remove_field_when_delete_column": false,
     "cell_size": "normal",
     "sticky_first_column": false,
     "group_folder_column": "",
@@ -25,7 +25,7 @@
     "show_metadata_inlinks": false,
     "show_metadata_outlinks": false,
     "source_data": "current_folder",
-    "source_form_result": "root",
+    "source_form_result": "\"root\"",
     "source_destination_path": "/",
     "frontmatter_quote_wrap": true,
     "row_templates_folder": "/",

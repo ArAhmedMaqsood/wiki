@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0205221b64904897",
+        "id": "12dac8442c4cdad2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Index/Index.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -85,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +124,9 @@
     "direction": "horizontal",
     "width": 302
   },
-  "active": "0205221b64904897",
+  "active": "12dac8442c4cdad2",
   "lastOpenFiles": [
+    "databases/database.md",
     "Index/Index.md",
     "resources/untitled.md",
     "areas/BIM.md",
@@ -128,7 +135,6 @@
     "18a.91cl.md",
     "archive/Japandi.md",
     "archive/Biophilia.md",
-    "archive/Adobe Photoshop.md",
-    "resources/French Interiors The Art of Elegance.md"
+    "archive/Adobe Photoshop.md"
   ]
 }
