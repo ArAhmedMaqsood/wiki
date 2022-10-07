@@ -25,5 +25,6 @@
   "resources": "IbAcademicBook",
   "projects": "IbTriangle",
   "archive": "IbArchive",
-  "bin": "IbAdd"
+  "bin": "IbAdd",
+  "Index": "IbHeart"
 }

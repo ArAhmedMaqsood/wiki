@@ -6,9 +6,9 @@
   "obsidian-tagfolder",
   "quickadd",
   "obsidian-plugin-toc",
+  "obsidian-git",
   "obsidian-cloudinary-uploader",
   "homepage",
   "folder-note-plugin",
-  "dbfolder",
-  "obsidian-git"
+  "dbfolder"
 ]
