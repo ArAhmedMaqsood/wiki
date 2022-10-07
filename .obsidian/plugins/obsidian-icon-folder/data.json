@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbDashboard",
       "IbHeart",
       "IbAdd",
       "IbArchive",
-      "IbTriangle",
-      "IbAcademicBook"
+      "IbTriangle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,6 @@
   "projects": "IbTriangle",
   "archive": "IbArchive",
   "bin": "IbAdd",
-  "Index": "IbHeart"
+  "Index": "IbHeart",
+  "databases": "IbDashboard"
 }

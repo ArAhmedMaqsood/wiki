@@ -7,13 +7,8 @@
         "id": "0205221b64904897",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Index/Index.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -90,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +118,7 @@
     "direction": "horizontal",
     "width": 302
   },
-  "active": "63d824adcc4e91fe",
+  "active": "0205221b64904897",
   "lastOpenFiles": [
     "Index/Index.md",
     "resources/untitled.md",
