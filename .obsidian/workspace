@@ -7,8 +7,13 @@
         "id": "12dac8442c4cdad2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Index/Index.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -85,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
