@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "be90c7b58f078ee0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "projects/Major Project.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "a506dfadda83fe7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd152413407ccc21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e979d2c388aa9b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ],
@@ -124,7 +138,10 @@
     "direction": "horizontal",
     "width": 245
   },
-  "active": "be90c7b58f078ee0",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7e979d2c388aa9b6",
   "lastOpenFiles": [
     "projects/Warehouse.md",
     "projects/Create a BIM of a Villa.md",
