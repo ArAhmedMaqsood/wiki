@@ -19,8 +19,23 @@
             "id": "7e979d2c388aa9b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Index/Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3adbe2facc9ca1d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
             }
           }
         ],
@@ -102,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Major Project.md",
+                "file": "Index/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +150,6 @@
     ],
     "direction": "horizontal",
     "width": 245
-  },
-  "ribbon": {
-    "mostRecentAction": ""
   },
   "active": "7e979d2c388aa9b6",
   "lastOpenFiles": [
