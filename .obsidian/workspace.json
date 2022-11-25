@@ -19,8 +19,13 @@
             "id": "7e979d2c388aa9b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "archive/hygge.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -112,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "archive/hygge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,12 +152,12 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "4b9c72201c7cd0f1",
+  "active": "7e979d2c388aa9b6",
   "lastOpenFiles": [
+    "archive/Japandi.md",
     "bin/templates/daily journal.md",
     "archive/Wabi-sabi.md",
     "archive/Space.md",
-    "archive/Japandi.md",
     "journal/2022-10-07.md",
     "journal/2022-06-25.md",
     "journal/2022-06-23.md",
