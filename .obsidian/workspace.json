@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/Index.md",
+                "file": "bin/templates/daily journal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index/Index.md",
+                "file": "bin/templates/daily journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
   },
   "active": "7e979d2c388aa9b6",
   "lastOpenFiles": [
+    "archive/Wabi-sabi.md",
+    "archive/Space.md",
+    "archive/Japandi.md",
+    "journal/2022-10-07.md",
+    "journal/2022-06-25.md",
+    "journal/2022-06-23.md",
     "Index/Index.md",
     "projects/Warehouse.md",
     "projects/Create a BIM of a Villa.md",
-    "archive/Plethora.md",
-    "areas/HVAC.md",
-    "resources/Living in Style Amsterdam.md",
-    "areas/Lifestyle.md",
-    "archive/Adobe Photoshop.md",
-    "areas/Graphic Design.md",
-    "areas/BIM.md"
+    "archive/Plethora.md"
   ]
 }
